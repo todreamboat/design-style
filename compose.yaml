@@ -1,0 +1,28 @@
+services:
+  training-assistant:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: metadesigner-training:1.0.0
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      NO_PROXY: localhost,127.0.0.1,0.0.0.0
+      no_proxy: localhost,127.0.0.1,0.0.0.0
+    ports:
+      - "12002:12002"
+    volumes:
+      - ./runtime/cache:/app/cache
+      - ./runtime/data:/app/data
+      - ./runtime/logs:/app/logs
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import urllib.request; urllib.request.urlopen('http://127.0.0.1:12002/', timeout=3)"
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s

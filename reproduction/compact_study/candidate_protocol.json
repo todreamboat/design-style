@@ -1,0 +1,557 @@
+{
+  "protocol": "saved-style-expanded-compact-v1-20261021",
+  "status": "prepared_candidates_not_frozen",
+  "budget": {
+    "total_cap_usd": 25,
+    "development_cap_usd": 3,
+    "authorization": "user_continue_after_explicit_25usd_question_20261021",
+    "calls": 3,
+    "accounted_usd": 0.024194,
+    "accounting_basis": "capability_probe metadata usage.cost; includes three completed calls, not a final account invoice"
+  },
+  "categories": [
+    "coats",
+    "jackets"
+  ],
+  "brand_count": 10,
+  "planned_conditions": [
+    "task_only",
+    "saved_summary",
+    "saved_nine"
+  ],
+  "planned_task_types": [
+    "color",
+    "pattern",
+    "component"
+  ],
+  "repeats": 2,
+  "planned_images": 180,
+  "generation_history_image_inputs": 0,
+  "independent_unit": "brand",
+  "archive_reference_count": 4,
+  "task_source_count": 3,
+  "split_limitation": "chronological tokens are not verified series; do not claim verified cross-series validation",
+  "sources": [
+    {
+      "source_id": "v01",
+      "canonical_key": "aalto",
+      "brand_directories": [
+        "Aalto"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "19aw",
+      "history": [
+        {
+          "path": "Aalto/coats/large_aal_aw16_022.jpg",
+          "sha256": "e79c4985ab93777d0d9f4e10563594670b9e4bb16db4b7b99a949e57abbd70fb",
+          "role": "history"
+        },
+        {
+          "path": "Aalto/coats/large_aal_aw17_019.jpg",
+          "sha256": "323545aecb27aab41e36344fb5471b1df58d24936e194cd718c995680444edfb",
+          "role": "history"
+        },
+        {
+          "path": "Aalto/coats/large_aal_prs_aw18_056.jpg",
+          "sha256": "76d2711fd477b9b9cb6256a5b0b570f5958c1914925958d562ac69d530824a47",
+          "role": "history"
+        },
+        {
+          "path": "Aalto/coats/large_aal_aw16_038.jpg",
+          "sha256": "646f6be36c8056c556ed89df0efa27408f1f102e8cb40823d90c9026469f7f43",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Aalto/coats/large_aal_prs_aw19_049.jpg",
+          "sha256": "ca12a6970effe541102dfaa824816f9d7f83c7c86997862b426ae909708afc08",
+          "role": "target"
+        },
+        {
+          "path": "Aalto/coats/large_aal_prs_aw19_007.jpg",
+          "sha256": "444de32a9ad7adad77759438cf82f7ae42ce914edb7b4314fa38fcfaf3e8775e",
+          "role": "target"
+        },
+        {
+          "path": "Aalto/coats/large_aal_prs_aw19_035.jpg",
+          "sha256": "9d047e169d390caa13f29b1659d52ae4c27260463978680ef0747f20b8081356",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    },
+    {
+      "source_id": "v02",
+      "canonical_key": "actn1",
+      "brand_directories": [
+        "Act N.1"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "23aw",
+      "history": [
+        {
+          "path": "Act N.1/jackets/wrap/large_an1_mln_aw21_019.jpg",
+          "sha256": "095e7b7c0f9631e40c65d60b5147bdef9a02c041f40c3e2248aaef218bf4f6de",
+          "role": "history"
+        },
+        {
+          "path": "Act N.1/coats/large_act_mln_aw20_063.jpg",
+          "sha256": "f98771d2e8d6af910ba9940b1f05be729575cbfb24a355adbc5583a994887cf3",
+          "role": "history"
+        },
+        {
+          "path": "Act N.1/coats/large_an1_mln_aw22_111.jpg",
+          "sha256": "49d2aa4921e8df26fa3fff2ce6f6fd07818e3c3efdfa56934dda64c8ce38d0da",
+          "role": "history"
+        },
+        {
+          "path": "Act N.1/coats/large_act_mln_aw19_059.jpg",
+          "sha256": "7e84c683907707b613a78dafe0607e7ebfbb1e582f67efc10aa1c7be80a38d6f",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Act N.1/jackets/shirt_jacket_shacket_overshirt/large_an1_ldn_aw23_011.jpg",
+          "sha256": "67ac721768ee629f88b668b0f76e6243697b714fccd2c170f0c42f7951d67d21",
+          "role": "target"
+        },
+        {
+          "path": "Act N.1/jackets/shirt_jacket_shacket_overshirt/large_an1_ldn_aw23_019.jpg",
+          "sha256": "271a9507182e632a896cc4a42a4726a0fc4a62dfa90f433f47236e2a558c210e",
+          "role": "target"
+        },
+        {
+          "path": "Act N.1/coats/large_an1_ldn_aw23_059.jpg",
+          "sha256": "723d3f5cf283397587c85f5bff877560e1e42c7fdfe57917001394adf8b54654",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    },
+    {
+      "source_id": "v03",
+      "canonical_key": "adamlippes",
+      "brand_directories": [
+        "Adam Lippes"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "26ss",
+      "history": [
+        {
+          "path": "Adam Lippes/coats/large_adl_nyc_aw25_020.jpg",
+          "sha256": "9925b2ba90a705eed9446bd17059d9b76e4a7da7ec48286a6f8f15068641f0a7",
+          "role": "history"
+        },
+        {
+          "path": "Adam Lippes/coats/large_adl_nyc_aw25_012.jpg",
+          "sha256": "9d0b1c4dd698195c9f47fce52c4cb1a52133e22f5681d04ffaca1b5d62c7dbfc",
+          "role": "history"
+        },
+        {
+          "path": "Adam Lippes/coats/large_adml_aw16_001.jpg",
+          "sha256": "22baedb4223e492eb83a6f1e95b7975ce69e59dbcdd154fdb754301003324543",
+          "role": "history"
+        },
+        {
+          "path": "Adam Lippes/coats/large_adl_nyc_aw24_033.jpg",
+          "sha256": "9bbf8c01f9becfd4bba1e87a931ce37d0a2fdfc4ad1e9ff183ddb7505e4bad37",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Adam Lippes/coats/large_adl_nyc_ss26_013.jpg",
+          "sha256": "90c4faa33297cd1b36a5a9228b0a7ddd75c0c8ebba57723279ee66bae3c1d6f2",
+          "role": "target"
+        },
+        {
+          "path": "Adam Lippes/jackets/bomber_jacket_blouson/large_adl_nyc_ss26_011.jpg",
+          "sha256": "448567e1823c190cdce2f2dcd9f34abaa41cdc8e6b38c32d211d9c9d06506759",
+          "role": "target"
+        },
+        {
+          "path": "Adam Lippes/jackets/blazer_sportcoat/large_adl_nyc_ss26_009.jpg",
+          "sha256": "b312ede3119d38ee0b797c5a8da0e92fb264bfa724d7bd455c34965718d7db05",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    },
+    {
+      "source_id": "v04",
+      "canonical_key": "adeam",
+      "brand_directories": [
+        "Adeam"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "26ss",
+      "history": [
+        {
+          "path": "Adeam/coats/large_ade_ny_aw18_027.jpg",
+          "sha256": "d99ed4b777fa7b3cd7e826e648d6ec804de4287569f06297c52165d3885bc4c9",
+          "role": "history"
+        },
+        {
+          "path": "Adeam/coats/large_ade_aw14_029.jpg",
+          "sha256": "ceca55a87790a63a9e4298ccd09166cf259a03ae660c25e031e522cdc0738c49",
+          "role": "history"
+        },
+        {
+          "path": "Adeam/coats/large_ade_nyc_aw22_004.jpg",
+          "sha256": "6bcf03057face14cb1763a1fe832babe9f0a6066e7c8190b4111128ad5e70885",
+          "role": "history"
+        },
+        {
+          "path": "Adeam/coats/large_ade_ny_ss19_007.jpg",
+          "sha256": "ac081e3ce60e28f9c4e49b3a024c430702f0da27654724ad0ff015b404ad911b",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Adeam/jackets/shirt_jacket_shacket_overshirt/large_ade_nyc_ss26_002.jpg",
+          "sha256": "2585c12097de73ca437f4af8b043004b36835081f65b955911ca633deb6fb57e",
+          "role": "target"
+        },
+        {
+          "path": "Adeam/coats/large_ade_nyc_ss26_016.jpg",
+          "sha256": "5da983751c300feb7f806329e0941aed434f1c780c93f74b5b8af03b7e89b0e0",
+          "role": "target"
+        },
+        {
+          "path": "Adeam/jackets/blazer_sportcoat/large_ade_nyc_ss26_003.jpg",
+          "sha256": "3aa8634116af784e6dbbbff6073e4f82eced0c839d01cdecaa1500a3196a2b9a",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    },
+    {
+      "source_id": "v05",
+      "canonical_key": "aganovich",
+      "brand_directories": [
+        "Aganovich"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "16aw",
+      "history": [
+        {
+          "path": "Aganovich/coats/large_agv_ss16_047.jpg",
+          "sha256": "9d97d9fb7ad35092c47c69b3ab765286de70b0ee53a6048400a2a0aa47b58af0",
+          "role": "history"
+        },
+        {
+          "path": "Aganovich/coats/large_agv_aw15_011.jpg",
+          "sha256": "bc97eec840f77acd5221498596ae97ecf3596e4342762a53384304cb353fe883",
+          "role": "history"
+        },
+        {
+          "path": "Aganovich/coats/large_agv_ss16_019.jpg",
+          "sha256": "be519d768f1d9639e5ce4dcf954d9d158e56802b696f1a904361230d034157df",
+          "role": "history"
+        },
+        {
+          "path": "Aganovich/coats/large_agv_ss16_021.jpg",
+          "sha256": "a0c9da4f05aa9259dbf0995dbef75e83fc5e8142cf195be5b535b0369b129c82",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Aganovich/coats/large_agv_aw16_057.jpg",
+          "sha256": "a149936979831ed62c01aeec495272e72cb0b9961becbf766f7296dad78d13d2",
+          "role": "target"
+        },
+        {
+          "path": "Aganovich/coats/large_agv_aw16_047.jpg",
+          "sha256": "e66935bb57d46bfd774d9248a15821bb1b26d19d0dfedddd3055dc3773195ea8",
+          "role": "target"
+        },
+        {
+          "path": "Aganovich/coats/large_agv_aw16_007.jpg",
+          "sha256": "bf5b7695542af79bbb19a1ff619b9fc69de27b9e8c2adfc5433f732dec51bf9a",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    },
+    {
+      "source_id": "v06",
+      "canonical_key": "agiandsam",
+      "brand_directories": [
+        "Agi and Sam"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "17aw",
+      "history": [
+        {
+          "path": "Agi and Sam/jackets/shirt_jacket_shacket_overshirt/large_agi_aw16_051.jpg",
+          "sha256": "c105bb131d577f181a82463e80ab7e70ea0fbac3d07c4c82230925ff2a7985e7",
+          "role": "history"
+        },
+        {
+          "path": "Agi and Sam/jackets/shirt_jacket_shacket_overshirt/large_agi_ss16_039.jpg",
+          "sha256": "de35dcd87abced43a23e667ad576fc9c02491db0aaedfafa1ce3b2ce34bf4e9c",
+          "role": "history"
+        },
+        {
+          "path": "Agi and Sam/jackets/blazer_sportcoat/large_agi_aw16_043.jpg",
+          "sha256": "720b37323ff6d8ec6bc52ea477b96b9358022637d89366995871bef0c508ffc9",
+          "role": "history"
+        },
+        {
+          "path": "Agi and Sam/jackets/shirt_jacket_shacket_overshirt/large_agi_ss17_032.jpg",
+          "sha256": "b465a98f6ee9ecb3ea919120ce87033fe2c53c91d2afb49ef1be84237e58640c",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Agi and Sam/coats/large_agi_aw17_061.jpg",
+          "sha256": "c51ddef43753e426c8ecea754ddc967e841be1d2ba4ca444d9a3c9dae0d585de",
+          "role": "target"
+        },
+        {
+          "path": "Agi and Sam/jackets/blazer_sportcoat/large_agi_aw17_043.jpg",
+          "sha256": "1e7ed72c5e28ac3669301d0ac442c154a6b0536ec2bb4c241579b0f4714df7f3",
+          "role": "target"
+        },
+        {
+          "path": "Agi and Sam/coats/large_agi_aw17_053.jpg",
+          "sha256": "f5e829a5917ae898c0f2f42c4970d8476abf88a8283b8112c4370dce323633b0",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    },
+    {
+      "source_id": "v07",
+      "canonical_key": "agnesb",
+      "brand_directories": [
+        "Agnes B",
+        "Agnès B"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "26ss",
+      "history": [
+        {
+          "path": "Agnes B/coats/large_agb_prs_aw18_100.jpg",
+          "sha256": "78e19db757a76f050c023990b2c8f19168d6b25fa3f9d1f8601ea261edac9b97",
+          "role": "history"
+        },
+        {
+          "path": "Agnès B/jackets/shirt_jacket_shacket_overshirt/large_agb_prs_ss24_011.jpg",
+          "sha256": "fad8da23060d891443d87b269853891b4d82df89b45cf4be18cdcdc6c502a6f0",
+          "role": "history"
+        },
+        {
+          "path": "Agnes B/coats/large_agb_ss16_010.jpg",
+          "sha256": "4886923ebdf63b0a19b4f4e9219792b529f789bd716b2b0eb89eefe8f98df237",
+          "role": "history"
+        },
+        {
+          "path": "Agnes B/coats/large_agb_prs_aw18_088.jpg",
+          "sha256": "5302e1244c47b856b7721711b2f457d4c37307a4c34981f3d392da1169ada4b8",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Agnes B/coats/large_agnb_prs_ss26_077.jpg",
+          "sha256": "1a5b75f40bea85f247c2570f08cf5980fe1a02a709932ab32be0458f9a753f8f",
+          "role": "target"
+        },
+        {
+          "path": "Agnès B/jackets/bomber_jacket_blouson/large_agb_prs_ss26_086.jpg",
+          "sha256": "939dc5b8cf62a7d7bf8aa6f7b9fe1e44468edfc9135412d7a237f93d8c4aadde",
+          "role": "target"
+        },
+        {
+          "path": "Agnès B/jackets/blazer_sportcoat/large_agb_prs_ss26_046.jpg",
+          "sha256": "e7731c2c02898c4e469411bec3d4f5e84d77b630ed2eb942e1a58b1c8f145d73",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    },
+    {
+      "source_id": "v08",
+      "canonical_key": "agnona",
+      "brand_directories": [
+        "Agnona"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "20aw",
+      "history": [
+        {
+          "path": "Agnona/coats/large_agn_mln_ss19_001.jpg",
+          "sha256": "ac85467d08f20ed920fd1d1b6600104eff00c71b37686011ca8e8d535ebcfeb6",
+          "role": "history"
+        },
+        {
+          "path": "Agnona/coats/large_agn_mln_ss18_041.jpg",
+          "sha256": "2e5fda973b118e0626e00f465d87d5239768d5bc7489fa08a8964386d72c9aef",
+          "role": "history"
+        },
+        {
+          "path": "Agnona/coats/large_agn_mln_aw18_007.jpg",
+          "sha256": "6ad35404da8e6a6311aa1bc9b8e9e43a93634f2a782229e8941332c6160aa3d2",
+          "role": "history"
+        },
+        {
+          "path": "Agnona/coats/large_agn_mln_ss18_031.jpg",
+          "sha256": "cca3000086c7cc33e4b41d26aaab71a6d7105c4c66c223d39aa6dccc19fe28b0",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Agnona/coats/large_agn_mln_aw20_015.jpg",
+          "sha256": "0be1da9994326d1f75023751cf44b95f6a07864248516e99addf997ef8d7a7fc",
+          "role": "target"
+        },
+        {
+          "path": "Agnona/coats/large_agn_mln_aw20_067.jpg",
+          "sha256": "1bd59a6c522d035579e3ce8d20a5cb698a65ebf41ff90b2813503ac44b19306f",
+          "role": "target"
+        },
+        {
+          "path": "Agnona/coats/large_agn_mln_aw20_045.jpg",
+          "sha256": "88bb57cf4779cf29a1c1fc66d60f8f5123bc3063bb127063f9899fbf5a22a4b5",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    },
+    {
+      "source_id": "v09",
+      "canonical_key": "ahluwalia",
+      "brand_directories": [
+        "Ahluwalia"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "26ss",
+      "history": [
+        {
+          "path": "Ahluwalia/coats/large_ahl_ldn_ss23_021.jpg",
+          "sha256": "0566e3fec8a6445ef01b2665d396b43e8c74b0a40fcc086b3e84dc9a6e18d278",
+          "role": "history"
+        },
+        {
+          "path": "Ahluwalia/jackets/shirt_jacket_shacket_overshirt/large_ahl_ldn_aw22_017.jpg",
+          "sha256": "ea3936c09d607ea1020a9f61d59ba4aa19a27ddbfc37928a40e38c8f92d5422c",
+          "role": "history"
+        },
+        {
+          "path": "Ahluwalia/coats/large_ahl_ldn_aw20_009.jpg",
+          "sha256": "6c3bf822e3ac94954fc2b58762e41a1514234502f93179d0714e83a37cdb07ff",
+          "role": "history"
+        },
+        {
+          "path": "Ahluwalia/jackets/blazer_sportcoat/large_ahl_ldn_aw23_061.jpg",
+          "sha256": "761414b9d5b28e6a623cbeee201b3d540d5c1e6406688c0e676def7b307e3ae4",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Ahluwalia/jackets/blazer_sportcoat/large_ahl_ldn_ss26_031.jpg",
+          "sha256": "9068aaca12c1edbbef56b1abe1f589a3d6eafb6a7f26bd2d4ad164eeefba64a6",
+          "role": "target"
+        },
+        {
+          "path": "Ahluwalia/coats/large_ahl_ldn_ss26_028.jpg",
+          "sha256": "376d505f2b79643d8b14fd26c227ee8d42fe1022926efe38d869582baee68f3c",
+          "role": "target"
+        },
+        {
+          "path": "Ahluwalia/jackets/blazer_sportcoat/large_ahl_ldn_ss26_008.jpg",
+          "sha256": "6b976802fac76e7d911f24ab9da1ebe055f2608aed909b5bf0b26f340128635f",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    },
+    {
+      "source_id": "v10",
+      "canonical_key": "albertaferretti",
+      "brand_directories": [
+        "Alberta Ferretti"
+      ],
+      "scope": "brand_archive_proxy_not_identified_individual_designer",
+      "selection_review": "AI_contact_sheet_screen_not_human_verified",
+      "series_verification": "filename_candidate_only_not_verified",
+      "target_season_candidate": "25aw",
+      "history": [
+        {
+          "path": "Alberta Ferretti/coats/large_alb_mln_aw23_025.jpg",
+          "sha256": "59f63a3387be40780bbaa03b26c24f136dab945a91179029e9bb71f476d94cf6",
+          "role": "history"
+        },
+        {
+          "path": "Alberta Ferretti/coats/large_alb_mln_aw19_036.jpg",
+          "sha256": "dbf9fa0a12f33bf02d560ccb3deda09320317bb35b08e39164b16f05fa6fa095",
+          "role": "history"
+        },
+        {
+          "path": "Alberta Ferretti/jackets/shirt_jacket_shacket_overshirt/large_alb_mln_ss21_025.jpg",
+          "sha256": "d61b9e13a66e9dedb6dd98b73db6232e053c91880ca14ef031ad5bf3fe351855",
+          "role": "history"
+        },
+        {
+          "path": "Alberta Ferretti/coats/large_alb_mln_aw22_011.jpg",
+          "sha256": "84725590a9e1f9f6c5ae72824e029acdf01841884ee4bd8ae9e87f055f227595",
+          "role": "history"
+        }
+      ],
+      "task_sources": [
+        {
+          "path": "Alberta Ferretti/coats/large_alb_mln_aw25_004.jpg",
+          "sha256": "a29795d49c8d21c4a6182dc867675f86a565db945c0553308e6fe3290f70815b",
+          "role": "target"
+        },
+        {
+          "path": "Alberta Ferretti/coats/large_alb_mln_aw25_022.jpg",
+          "sha256": "282c7b66a4fcda201da0d49b9c4e9866f0cde366955c0ae6412ac3094e100e65",
+          "role": "target"
+        },
+        {
+          "path": "Alberta Ferretti/jackets/wrap/large_alb_mln_aw25_030.jpg",
+          "sha256": "24b7922d121dcd5339434698d0a759809b86aff5054c1bb8028ec3f0645bca42",
+          "role": "target"
+        }
+      ],
+      "selection_reason": "exclude_visible_details_or_suspected_same_outfit_views_before_generation; four_history_and_three_task_sources",
+      "human_eligibility": "pending"
+    }
+  ]
+}
